@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family:"Roboto Condensed";
+    src: url("../../assets/fonts/RobotoCondensed/RobotoCondensed-Bold.ttf") format("truetype");
+  }
+
+
+.caption-1 {
+    color:black;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 3rem;
+    margin-top: 1em;
+}
+
+.caption-2 {
+    color:black;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+.cheer {
+    width: 20%
+}
+
+.orange {
+    color: orange;
+}

@@ -1,0 +1,32 @@
+.card-wrapper {
+    margin: 2em 10% 0;
+    max-width: 15em;
+}
+
+.cardtext {
+    font-size: small;
+}
+
+.carddesc {
+    font-size: small;
+    text-align: justify;
+}
+
+.ccircle {
+    height: 6em;
+    margin: 0.5em auto 0.5em;
+    
+}
+
+.packages-title{
+    text-align: center;
+}
+
+.circled {
+    border-radius: 50%;
+}
+
+.hidden {
+    visibility: hidden;
+}
+

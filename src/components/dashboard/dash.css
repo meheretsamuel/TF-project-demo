@@ -1,0 +1,26 @@
+.head{
+    background-color: antiquewhite;
+}
+
+.head {
+    margin-top: 4em;
+    margin-bottom: 1em;
+    padding: 4em;
+}
+
+.vis {
+    margin-right: 2em;
+ 
+    padding: 2em;
+}
+
+.ep {
+  
+
+    padding: 2em;
+}
+
+.whatisyou {
+    margin-top: 10em;
+    width: 40%;
+}

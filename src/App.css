@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 335px;
+  width: 431.46px;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color:white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.caption-1{
+font-family: Roboto;
+font-weight: 30;
+}
+.caption-2{
+  font-family: Roboto;
+  font-weight:30;
+}
+
+.success-screen {
+  background-color: #1DF76D;
+}
+.fail-screen {
+  background-color: #FF4962;
+}
+.layout-stuff {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.img-class {
+  height: 150px;
+  margin-left: 3rem;
+}
+.form-class {
+  display: grid;
+  text-align: center;
+}
+.tf-btn {
+  background-color: #F7941D;
+  color: white;
+  width: 100%;
+  border-radius: 5px;
+  border: 0;
+  padding: 0.5rem;
+}
+.info-box {
+  padding: 5px;
+  background-color: #10db5a;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.bnC {
+  margin: 10em;
+  width: 30em;
+  height: 30em;
+}

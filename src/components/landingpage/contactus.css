@@ -1,0 +1,24 @@
+.contactus-wrapper {
+  background-color: #f7941d;
+  padding: 2%;
+  margin-top: 8em;
+}
+
+.contactus-inside {
+  background-color: white;
+  padding: 4%;
+  width: 65%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.conTitle {
+  margin: 0 auto 1em;
+  font-size: 3rem;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form-group {
+    margin: 0 auto 1em;
+}

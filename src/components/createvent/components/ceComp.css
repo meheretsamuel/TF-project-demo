@@ -1,0 +1,31 @@
+.form-wrapper{
+  margin-top: 2em;
+}
+
+
+.row {
+  margin-top: 1em;
+}
+
+.invt {
+  font-size: large;
+}
+
+.oto {
+  color:black !important;
+  background-color: transparent !important;
+  border-color: black !important;
+  border: thin solid !important;
+}
+
+.smol-event {
+  font-size: small;
+  margin: 1em 1em 1em;
+  position: relative;
+  top: 10%;
+  left: 0%;
+  width: 90%;
+  background-color:bisque;
+  opacity: 0.9;
+  padding: 0.5em;
+}
